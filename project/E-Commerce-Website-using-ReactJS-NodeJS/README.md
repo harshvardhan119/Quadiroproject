@@ -59,66 +59,6 @@ To-do list:
 * Sorting
 * Search
 
-## Screenshots
-
-### Home Page
-This is the home page of e-commerce. It shows a list of products. It also uses React-Bootstrap Corousel for corousel.
-
-![Main](Screenshots/main.png)
-
-________________________________________________________
-
-### Product Details Page
-When the user clicks on a product it takes you to the product details page.
-
-![Product Details](Screenshots/product-details.png)
-________________________________________________________
-
-### Cart
-Shopping Cart is the heart of any e-commerce website. I have created a user-friendly shopping cart using React and Redux.
-
-![Cart](Screenshots/cart.png)
-________________________________________________________
-
-### Register
-I have created forms for getting user info and save them in the database.
-
-![Register](Screenshots/register.png)
-________________________________________________________
-
-### Sign-In
-Sign in page for user to sign in.
-
-![SignIn](Screenshots/signin.png)
-________________________________________________________
-
-## Ordering Products
-
-Sign in page for user to sign in.
-
-### Shipping Screen
-![Shipping](Screenshots/shipping.png)
-________________________________________________________
-### Payment Screen
-![Payment](Screenshots/payment.png)
-________________________________________________________
-### Place Order Screen
-![Place Order](Screenshots/placeorder.png)
-________________________________________________________
-
-### Admin 
-Admin should be able to define products and update the count in stock whenever they like. This page is about managing ECommerce products.
-
-## View Products (admin)
-
-![Admin View Products](Screenshots/admin-products.png)
-________________________________________________________
-
-### Add Products (admin)
-
-![Admin Add products](Screenshots/add-product.png)
-________________________________________________________
 
 
-## Contact
-[Suhas Suhas](https://www.suhassalian.netlify.com/) - feel free to contact me!
+
